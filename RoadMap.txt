@@ -1,0 +1,74 @@
+1. Beginner Level – The Foundation
+Basics
+•	let, const, var
+•	Data Types: string, number, boolean, undefined, null
+•	Operators: +, -, *, /, %, ==, ===, !=, !==, etc.
+•	Conditional Statements:
+o	if, else, else if
+o	switch
+ Loops
+•	for
+•	while
+•	do...while
+•	for...of
+•	for...in
+Functions
+•	Function Declaration
+•	Function Expression
+•	Arrow Functions (=>)
+•	Parameters & Return Values
+Arrays & Strings
+•	Array methods: push, pop, shift, unshift, map, filter, reduce, find, includes
+•	String methods: split, trim, toUpperCase, toLowerCase, slice, substring
+________________________________________
+2. Intermediate Level – Core for React
+
+Objects
+•	Object literals: { key: value }
+•	Accessing & updating values: obj.key, obj["key"]
+•	Looping over objects with for...in
+•	Object destructuring
+ES6+ Concepts
+•	Template Literals: `Hello, ${name}`
+•	Destructuring: const {name} = obj
+•	Spread & Rest: ...
+•	Default Parameters
+•	Ternary Operator: condition ? a : b
+•	Short-circuiting: value || default, value && doSomething
+DOM Manipulation (basic idea)
+•	document.querySelector(), getElementById()
+•	addEventListener()
+•	Changing text, value, class, or style
+Events
+•	onClick, onChange, onSubmit (important for React)
+•	Event Object
+________________________________________
+3. Advanced JavaScript – For Deeper React Work
+Time: 2–4 weeks (practice included)
+Callbacks, Promises, and Async/Await
+•	Callback functions
+•	Promise chaining
+•	async / await
+•	Error handling with try...catch
+Array Mastery
+•	Deep understanding of map, filter, reduce, every, some, sort
+•	Chaining methods
+Closures
+•	What is a closure
+•	How it helps retain state
+•	Use cases in hooks
+Scope and Hoisting
+•	var, let, const scope differences
+•	Function vs block scope
+•	Variable/function hoisting
+this Keyword
+•	How this behaves in regular and arrow functions
+•	In object methods and events
+Callback vs Higher-Order Functions
+•	Functions as arguments
+•	Functions returning other functions (very useful in hooks)
+Modules & Imports
+•	export and import
+•	Default vs named exports
+•	Using modules in large codebases
+
