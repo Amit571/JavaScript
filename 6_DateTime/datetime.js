@@ -1,0 +1,8 @@
+let getDate = new Date()
+console.log(getDate)
+console.log(getDate.toString())
+console.log(getDate.toLocaleString())
+console.log(getDate.getDate())
+console.log(getDate.getDay())
+console.log(getDate.getHours())
+console.log(getDate.getFullYear())
